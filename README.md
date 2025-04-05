@@ -6,13 +6,12 @@
 
 This project provides a web application designed to help constituents easily draft professional letters to their elected officials using the power of AI. By providing basic information about themselves, the representative, and the issue at hand, users can generate well-structured, persuasive letters ready to be sent.
 
-## 🚀 Live Demo
+## 🚀 Try It Out
 
 **Try the application live:** 
 # [**https://contactyourrepresentatives.replit.app**](https://contactyourrepresentatives.replit.app)
 
-
-
+![Screenshot 2025-04-05 133146](https://github.com/user-attachments/assets/84b0b895-a722-402c-b5ed-45cac1f1a8af)
 
 ## 🌟 Features
 
@@ -52,35 +51,6 @@ This project provides a web application designed to help constituents easily dra
     *   `esbuild` (Bundling for production)
 *   **Deployment:**
     *   Replit (Hosting & Autoscale)
-
-## ⚙️ Setup and Installation
-
-To run this project locally, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3.  **Set up environment variables:**
-    Create a `.env` file in the root of the project and add your Perplexity API key:
-    ```dotenv
-    # .env
-    PERPLEXITY_API_KEY=your_perplexity_api_key_here
-    ```
-    *(Note: The `.env` file is included in `.gitignore` and should not be committed.)*
-
-4.  **Run the development server:**
-    ```bash
-    npm run dev
-    ```
-    This will start both the backend server and the Vite frontend development server. The application should be accessible at `http://localhost:5000`.
 
 ## 🤝 Contributing
 
